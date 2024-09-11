@@ -1,0 +1,7 @@
+What do you expect (and like) to learn in this class? If we have time at the end of the
+semester to go through additional topics related to software engineering, Java or object-oriented programming,
+what would you like us cover?
+
+I expect to learn Java and the different ways to use Java to solve complex programming problems. By the end of the class, I would like to be able to use this knowledge in other situations out of class. 
+
+If we have time at the end of the class, socket programming would be a fun topic to touch on. 
